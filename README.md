@@ -1,4 +1,4 @@
-# Python-Script-for-Port-Scanning
+# PythonScript Port-Scaner
 
 This Python script is designed for network analysis, monitoring, and intrusion detection. It includes functionalities to analyze packet capture files, detect scanning and DDoS attacks, and train a machine learning model for network activity classification.
 
